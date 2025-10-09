@@ -2533,3 +2533,4 @@ zn3k8ws1yrqzsnu7x-arnold.siteintercept.qualtrics.com
 zn5ydlsbwpgrsccsp-qps.siteintercept.qualtrics.com
 zomato.com
 zoom.us
+trans-rmabarcode-images-na.s3.amazonaws.com
