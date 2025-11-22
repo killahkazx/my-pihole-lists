@@ -2534,3 +2534,5 @@ zn5ydlsbwpgrsccsp-qps.siteintercept.qualtrics.com
 zomato.com
 zoom.us
 trans-rmabarcode-images-na.s3.amazonaws.com
+link.vetspire.com
+sentry.moviesanywhere.com
