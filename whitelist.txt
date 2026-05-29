@@ -2557,3 +2557,6 @@ voilatile-pa.googleapis.com
 www.aliexpress.com
 www.imagefap.com
 www.youtube-nocookie.com
+ext-api.airthings.com				
+accounts-api.airthings.com				
+*.airthings.com
