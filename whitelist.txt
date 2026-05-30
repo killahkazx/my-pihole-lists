@@ -1,3 +1,4 @@
+*.airthings.com
 0-edge-chat.facebook.com
 0.client-channel.google.com
 02877f9dafd21826d2f5713e0ddb0fd17479a8f5.cws.conviva.com
@@ -18,6 +19,7 @@
 3p-geo.yahoo.com
 4.bp.blogspot.com
 5231.xg4ken.com
+52cce4cc-fb30-49fd-9eae-ce547586e252-netseer-ipaddr-assoc.xy.fbcdn.net
 6-edge-chat.facebook.com
 642863fb03282f63bd762681c54937d7.safeframe.googlesyndication.com
 7eer.net
@@ -44,6 +46,8 @@ abs.twimg.com
 abtest.alibaba.com
 abuse.ch
 account.bonnier.news
+accounts-api.airthings.com
+accounts-api.airthings.com				
 accounts.elephantjournal.com
 accounts.google.com
 accounts.nvgs.nvidia.com
@@ -53,6 +57,7 @@ accscdn.m.taobao.com
 accuweather.com
 acjs.aliyun.com
 acookie.alibaba.com
+acs.aliexpress.us
 actionnetwork.org
 activate.boostmobile.com
 activation.gfe.nvidia.com
@@ -181,6 +186,7 @@ apis.google.com
 apis.mail.yahoo.com
 apiv2.moengage.com
 apkpure.com
+aplus.aliexpress.us
 apmebf.com
 app-api.ted.com
 app-measurement.com
@@ -252,6 +258,7 @@ az764295.vo.msecnd.net
 b-api.facebook.com
 b-graph.facebook.com
 b.fxnetworks.com
+b.stats.paypal.com
 b.thumbs.redditmedia.com
 b.travel-assets.com
 b2bapi.zee5.com
@@ -280,6 +287,7 @@ bgr.com
 bi.banggood.com
 bing.com
 binstar-cio-packages-prod.s3.amazonaws.com
+bio.link
 biosagentplus.com
 bit.do
 bit.ly
@@ -339,6 +347,7 @@ calendar.google.com
 calgary.ctvnews.ca
 campaign.r20.constantcontact.com
 capi.9c9media.com
+captcha.px-cdn.net
 captive.roku.com
 cc-dt.com
 cc5.darkside.se
@@ -433,6 +442,7 @@ cdnstats.tube8.com
 cdp.cloud.unity3d.com
 cert.mgt.xboxlive.com
 cf.bstatic.com
+cfcam9.tdum.alibaba.com
 cfg.gog.com
 cfl.dropboxstatic.com
 cfvod.kaltura.com
@@ -441,6 +451,7 @@ channels.roku.com
 chart.googleapis.com
 chat.dsmlr.com
 chaturbate.com
+check.ddos-guard.net
 checkout.shopify.com
 checkout.stripe.com
 chocolatey.org
@@ -454,6 +465,7 @@ ci5.googleusercontent.com
 cigars.roku.com
 cj.com
 cj.dotomi.com
+cl3.apple.com
 clc.stackoverflow.com
 clevertap.com
 click.e-mail.swanson-vitamins.com
@@ -497,6 +509,7 @@ cloudservices.roku.com
 cm.everesttech.net
 cm2-mad1.cm.steampowered.com
 cmap.alibaba.com
+cms-cache.aboutads.info
 cms-dsg-new.s3.amazonaws.com
 cms.gov
 cms.mdeo.co
@@ -514,8 +527,11 @@ collector.github.com
 colrep.sitelabweb.com
 commission-junction.com
 community.cloudflare.steamstatic.com
+community.homey.app
 community.wbgames.com
+community.zimaspace.com
 completion.amazon.co.uk
+concretedog.blogspot.com
 config.edge.skype.com
 config.uca.cloud.unity3d.com
 configsvc.cs.roku.com
@@ -529,6 +545,7 @@ connecttv.pelmorex.com
 consent.truste.com
 content-ausc1.uplynk.com
 content-ui.battle.net
+content.ibanking-services.com
 content.invisioncic.com
 content.sr.roku.com
 content.uplynk.com
@@ -570,6 +587,7 @@ csm-e-ellation-eb.geoloc.yospace.com
 csp.medium.com
 csp.withgoogle.com
 css.gbtcdn.com
+ct.ddc.paypal.com
 ct.techrepublic.com
 ct.yimg.com
 cta-redirect.hubspot.com
@@ -713,6 +731,7 @@ e7.whatsapp.net
 e8.whatsapp.net
 e9.whatsapp.net
 ea.com
+eastus-8.in.applicationinsights.azure.com
 easylist-downloads.adblockplus.org
 ebay.to
 ec-ns.sascdn.com
@@ -764,6 +783,8 @@ everydayhealth.com
 evoke-windowsservices-tas.msedge.net
 evyy.net
 example.com
+ext-api.airthings.com
+ext-api.airthings.com				
 external-accounts.gog.com
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
@@ -778,6 +799,7 @@ external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external-preview.redd.it
 external-users.gog.com
+external.xx.fbcdn.net
 f-log-extension.grammarly.io
 f.convertkit.com
 f.convertkit.com.cdn.cloudflare.net
@@ -794,6 +816,7 @@ fb.me
 fbcdn-creative-a.akamaihd.net
 fcm-stream.googleapis.com
 fcm.googleapis.com
+fcmbackend.googleapis.com
 fdn.gsmarena.com
 fe2.update.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
@@ -804,6 +827,7 @@ feedly.com
 feeds.feedburner.com
 feodotracker.abuse.ch
 filament.io
+files.aboutads.info
 files.brightcove.com
 files.catbox.moe
 files.constantcontact.com
@@ -833,6 +857,7 @@ forum.vudu.com
 forums.sonarr.tv
 forwrdnow.com
 fossbytes.com
+fourier.aliexpress.com
 fox8.com
 foxentertainment.hb.omtrdc.net
 freebitco.in
@@ -852,6 +877,7 @@ galaxy-cp.gog.com
 gameplay.gog.com
 gamerant.com
 gan.doubleclick.net
+gateway.instagram.com
 gateway.verizonwireless.com
 gcm-http.googleapis.com
 gcm.googleapis.com
@@ -863,6 +889,7 @@ genesis.malwarebytes.com
 geni.us
 geo-prod.do.dsp.mp.microsoft.com
 geo.battle.net
+geo.ddc.paypal.com
 geo3.ggpht.com
 geolocation.onetrust.com
 geomobileservices-pa.googleapis.com
@@ -952,6 +979,7 @@ hls.ted.com
 hn.algolia.com
 home.bt.com
 homeassistant
+homey.app
 hosts-file.net
 hosts.eladkarako.com
 hosts.herndl.org
@@ -962,10 +990,12 @@ hotstar-sin.gravityrd-services.com
 hotstar.com
 howtogeek.com
 href.li
+hrnews1.substack.com
 hub-api.airthin.gs
 hubbuilds.s3.amazonaws.com
 hubspot.com
 hulu.hb-api.omtrdc.net
+hyperboleandahalf.blogspot.com
 i-technet.sec.s-msft.com
 i.dailymail.co.uk
 i.ebayimg.com
@@ -1005,6 +1035,7 @@ image.engage.xbox.com
 image.exacttarget.com
 image.ibb.co
 image.roku.com
+imagefap.com
 images-2.gog-statics.com
 images-4.gog-statics.com
 images-ext-1.discordapp.net
@@ -1058,6 +1089,7 @@ instagram.c10r.facebook.com
 instagram.com
 instantmessaging-pa.googleapis.com
 intercom.io
+intoverview.share.thousandeyes.com
 iosapps.itunes.apple.com
 iosapps.itunes.g.aaplimg.com
 ip-api.com
@@ -1143,6 +1175,7 @@ link.fandangonow.com
 link.p0.com
 link.square-enix-games.com
 link.swansonvitamins.com
+link.vetspire.com
 link.vudu.com
 linkedin.com
 linkinghub.elsevier.com
@@ -1172,6 +1205,7 @@ login.yahoo.com
 logs.netflix.com
 logs.omegle.com
 loopvids.s3.amazonaws.com
+lordhomeas.duckdns.org
 loupe-beta-gen.s3.amazonaws.com
 lptag.liveperson.net
 ls.chatid.com
@@ -1336,6 +1370,7 @@ mmi731.whatsapp.net
 mms.whatsapp.net
 mobile.audible.com
 mobile.pipe.aria.microsoft.com
+mobileimages.lowes.com
 mobilemaps-pa.googleapis.com
 mods-images.s3.amazonaws.com
 monoprice.sc.omtrdc.net
@@ -1344,6 +1379,7 @@ more.suse.com
 motherless.com
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
+mqtt.nyme.sh
 ms.staticbg.com
 msedge.sf.dl.delivery.mp.microsoft.com
 msftncsi.com
@@ -1386,6 +1422,7 @@ no-cache.hubspot.com
 no-ip.com
 node.plexapp.com
 nodeassets.nbcnews.com
+not-br.neocities.org
 noteworthy.medium.com
 notifications-pusher.gog.com
 notifications.gog.com
@@ -1449,10 +1486,12 @@ onesignal.com
 onlinecourses.nptel.ac.in
 open.scdn.co
 open.spotify.com
+open.substack.com
 openapi.samsung.com
 openload.co
 openwho.org
 opfcaptcha-prod.s3.amazonaws.com
+optout.aboutads.info
 os.fandango.com
 osint.bambenekconsulting.com
 osm-use1.sr.roku.com
@@ -1610,6 +1649,7 @@ redirector.googlevideo.com
 redirector.gvt1.com
 redsights.live.cdpred.services
 regionvasterbotten.cloud.com
+relay.fiverr.com
 reminders-pa.googleapis.com
 remote-config.gog.com
 rentry.co
@@ -1718,6 +1758,7 @@ securetoken.googleapis.com
 selenium-release.storage.googleapis.com
 semanticlocation-pa.googleapis.com
 sentry.io
+sentry.moviesanywhere.com
 sentry.prod.mozaws.net
 series
 serverfault.com
@@ -1780,6 +1821,7 @@ spg.vzw.com
 spm.banggood.com
 spokqax07.rum.si
 sponsor.ajay.app
+spot-pa.googleapis.com
 spotify.com
 spreadsheets.google.com
 srv3.airdroid.com
@@ -1853,6 +1895,7 @@ streamplay.to
 subguide.s3.amazonaws.com
 submit.sb.avast.com
 subscribe.wired.com
+substackcdn.com
 superitu.com
 supervisor.ext-twitch.tv
 supload.com
@@ -1888,6 +1931,7 @@ techrepublic.com
 techtarget.com
 tedcdn.com
 telemetry-in.battle.net
+test-gateway.instagram.com
 test.steampowered.com
 text.getpocket.com
 textshot.medium.com
@@ -1959,6 +2003,7 @@ traffic.megaphone.fm
 trak.in
 trans-qrcode-images-na.s3.amazonaws.com
 trans-returnsummarycard-images-na.s3.amazonaws.com
+trans-rmabarcode-images-na.s3.amazonaws.com
 trans.banggood.com
 translate.google.com
 trib.al
@@ -2053,10 +2098,13 @@ vidoza.net
 vidtech.cbsinteractive.com
 vimeo.com
 visitor-service.tealiumiq.com
+visitors.thingiverse.com
+vivetool.com
 vjs.zencdn.net
 vm.tiktok.com
 vodafoneindia.tt.omtrdc.net
 voice3.cti.roku.com
+voilatile-pa.googleapis.com
 vortex.accuweather.com
 vortex.hulu.com
 vudu.d1.sc.omtrdc.net
@@ -2082,6 +2130,7 @@ wccftech.com
 wcpstatic.microsoft.com
 wdcp.microsoft.com
 weather.com
+web-va.tiktok.com
 web.archive.org
 web.docker.com
 web.facebook.com
@@ -2105,6 +2154,7 @@ wix.com
 wo.vzwwo.com
 wordpress.com
 wow.zamimg.com
+wp.aliexpress.com
 wp.com
 wp.me
 wps.apple.com
@@ -2168,6 +2218,7 @@ www.breederscup.com
 www.brightcove.com
 www.bt.com
 www.buienradar.nl
+www.buildinglink.io
 www.businessinsider.com
 www.bwp.techrepublic.com
 www.canadianpharmacyworld.com
@@ -2277,6 +2328,7 @@ www.hardreset.info
 www.help.medium.com
 www.hidemyass.com
 www.home.bt.com
+www.homey.app
 www.hosts-file.net
 www.hostsfile.org
 www.houzz.com
@@ -2290,6 +2342,7 @@ www.huffpost.com
 www.humblebundle.com
 www.i1.social.s-msft.com
 www.icloud.com
+www.iconarchive.com
 www.imagefap.com
 www.inc.com
 www.inquisitr.com
@@ -2316,6 +2369,8 @@ www.linkedin.com
 www.linkfame.com
 www.linksynergy.com
 www.linuxtracker.org
+www.lovemeow.com
+www.lowes.com
 www.m.techrepublic.com
 www.ma.techrepublic.com
 www.malekal.com
@@ -2421,6 +2476,7 @@ www.slack.com
 www.smashingmagazine.com
 www.snapchat.com
 www.snapdeal.com
+www.softpedia.com
 www.solaredge.com
 www.solarwinds.com
 www.space.com
@@ -2446,6 +2502,7 @@ www.theeroticreview.com
 www.thefondlife.com
 www.theguardian.com
 www.thewindowsclub.com
+www.thousandeyes.com
 www.threatcrowd.org
 www.tiktok.com
 www.tiny.cc
@@ -2466,6 +2523,7 @@ www.usa.gov
 www.ustream.tv
 www.vectorstock.com
 www.verizon.com
+www.vivetool.com
 www.vporn.com
 www.w3school.com
 www.w3schools.com
@@ -2533,30 +2591,3 @@ zn3k8ws1yrqzsnu7x-arnold.siteintercept.qualtrics.com
 zn5ydlsbwpgrsccsp-qps.siteintercept.qualtrics.com
 zomato.com
 zoom.us
-trans-rmabarcode-images-na.s3.amazonaws.com
-link.vetspire.com
-sentry.moviesanywhere.com
-mtalk.google.com
-amzn.to
-captcha.px-cdn.net
-fcm.googleapis.com
-fcmbackend.googleapis.com
-firebaseinstallations.googleapis.com
-firebasestorage.googleapis.com
-imagefap.com
-lordhomeas.duckdns.org
-mtalk.google.com
-relay.fiverr.com
-s.reddit.com
-s.youtube.com
-s2.youtube.com
-spot-pa.googleapis.com
-steamcdn-a.akamaihd.net
-steamstore-a.akamaihd.net
-voilatile-pa.googleapis.com
-www.aliexpress.com
-www.imagefap.com
-www.youtube-nocookie.com
-ext-api.airthings.com				
-accounts-api.airthings.com				
-*.airthings.com
