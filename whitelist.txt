@@ -113,6 +113,8 @@ amdcopen.m.taobao.com
 amp-api-edge.apps.apple.com
 amp-reddit-com.cdn.ampproject.org
 amzn.to
+amzn.to	
+amzn.to.	
 analytics-api.home-assistant.io
 analytics.home-assistant.io
 analytics.localytics.com
@@ -348,6 +350,7 @@ calgary.ctvnews.ca
 campaign.r20.constantcontact.com
 capi.9c9media.com
 captcha.px-cdn.net
+captcha.px-cdn.net	
 captive.roku.com
 cc-dt.com
 cc5.darkside.se
@@ -544,6 +547,7 @@ connectivitycheck.gstatic.com
 connecttv.pelmorex.com
 consent.truste.com
 content-ausc1.uplynk.com
+content-autofill.googleapis.com.	
 content-ui.battle.net
 content.ibanking-services.com
 content.invisioncic.com
@@ -769,6 +773,8 @@ encrypted-tbn0.gstatic.com
 encurtador.dev
 enews.techrepublic.com
 engine.apikik.com
+erothots.co	
+erothots.co.	
 ersties.com
 es.digitaltrends.com
 estream.to
@@ -816,7 +822,9 @@ fb.me
 fbcdn-creative-a.akamaihd.net
 fcm-stream.googleapis.com
 fcm.googleapis.com
+fcm.googleapis.com	
 fcmbackend.googleapis.com
+fcmbackend.googleapis.com	
 fdn.gsmarena.com
 fe2.update.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
@@ -837,8 +845,11 @@ filters.adtidy.org
 financialexpress.com
 firebase-settings.crashlytics.com
 firebaseinstallations.googleapis.com
+firebaseinstallations.googleapis.com	
+firebaseinstallations.googleapis.com.	
 firebaseremoteconfig.googleapis.com
 firebasestorage.googleapis.com
+firebasestorage.googleapis.com	
 firefox.settings.services.mozilla.com
 firestore.googleapis.com
 flashservice.xvideos.com
@@ -1036,6 +1047,7 @@ image.exacttarget.com
 image.ibb.co
 image.roku.com
 imagefap.com
+imagefap.com.	
 images-2.gog-statics.com
 images-4.gog-statics.com
 images-ext-1.discordapp.net
@@ -1172,6 +1184,8 @@ lifehack.org
 lifehacker.com
 limelight.xp-assets.aiv-cdn.net
 link.fandangonow.com
+link.me	
+link.me.	
 link.p0.com
 link.square-enix-games.com
 link.swansonvitamins.com
@@ -1206,6 +1220,8 @@ logs.netflix.com
 logs.omegle.com
 loopvids.s3.amazonaws.com
 lordhomeas.duckdns.org
+lordhomeas.duckdns.org	
+lordhomeas.duckdns.org.	
 loupe-beta-gen.s3.amazonaws.com
 lptag.liveperson.net
 ls.chatid.com
@@ -1385,6 +1401,8 @@ msedge.sf.dl.delivery.mp.microsoft.com
 msftncsi.com
 msn.com
 mtalk.google.com
+mtalk.google.com	
+mtalk.google.com.	
 multi.xnxx.com
 musicart.xboxlive.com
 mva.microsoft.com
@@ -1650,6 +1668,7 @@ redirector.gvt1.com
 redsights.live.cdpred.services
 regionvasterbotten.cloud.com
 relay.fiverr.com
+relay.fiverr.com.	
 reminders-pa.googleapis.com
 remote-config.gog.com
 rentry.co
@@ -1686,17 +1705,21 @@ s.mzstatic.com
 s.ndemiccreations.com
 s.pinimg.com
 s.reddit.com
+s.reddit.com	
 s.shopify.com
 s.staticbg.com
 s.w-x.co
 s.w.org
 s.yimg.com
 s.youtube.com
+s.youtube.com	
+s.youtube.com.	
 s.ytimg.com
 s0.wp.com
 s0ft4pc.com
 s1.wp.com
 s2.youtube.com
+s2.youtube.com	
 s23209.pcdn.co
 s2k7tnzlhrpw.statuspage.io
 s3-ap-southeast-1.amazonaws.com
@@ -1817,11 +1840,13 @@ spankbang.com
 spankwire.com
 spclient.wg.spotify.com
 spectrum.s3.amazonaws.com
+speechs3proto2-pa.googleapis.com.	
 spg.vzw.com
 spm.banggood.com
 spokqax07.rum.si
 sponsor.ajay.app
 spot-pa.googleapis.com
+spot-pa.googleapis.com.	
 spotify.com
 spreadsheets.google.com
 srv3.airdroid.com
@@ -1878,8 +1903,10 @@ stats.grafana.org
 stats2.findlaw.com
 status.plex.tv
 steamcdn-a.akamaihd.net
+steamcdn-a.akamaihd.net	
 steamcommunity.com
 steamstore-a.akamaihd.net
+steamstore-a.akamaihd.net	
 storage.googleapis.com
 storage.live.com
 storage.signal.org
@@ -2100,11 +2127,13 @@ vimeo.com
 visitor-service.tealiumiq.com
 visitors.thingiverse.com
 vivetool.com
+vivetool.com.	
 vjs.zencdn.net
 vm.tiktok.com
 vodafoneindia.tt.omtrdc.net
 voice3.cti.roku.com
 voilatile-pa.googleapis.com
+voilatile-pa.googleapis.com.	
 vortex.accuweather.com
 vortex.hulu.com
 vudu.d1.sc.omtrdc.net
@@ -2134,6 +2163,7 @@ web-va.tiktok.com
 web.archive.org
 web.docker.com
 web.facebook.com
+web.facebook.com.	
 web.vortex.data.microsoft.com
 web.whatsapp.com
 webapps-cdn.esri.com
@@ -2179,6 +2209,7 @@ www.alcpu.com
 www.algolia.com
 www.alibaba.com
 www.aliexpress.com
+www.aliexpress.com	
 www.alluremedia.com
 www.androidpolice.com
 www.angel.co
@@ -2287,6 +2318,7 @@ www.en.w3schools.com
 www.encurtador.dev
 www.enews.techrepublic.com
 www.engadget.com
+www.erothots.co.	
 www.everydayhealth.com
 www.evite.com
 www.evyy.net
@@ -2344,6 +2376,7 @@ www.i1.social.s-msft.com
 www.icloud.com
 www.iconarchive.com
 www.imagefap.com
+www.imagefap.com.	
 www.inc.com
 www.inquisitr.com
 www.instagram.com
@@ -2524,6 +2557,7 @@ www.ustream.tv
 www.vectorstock.com
 www.verizon.com
 www.vivetool.com
+www.vivetool.com	
 www.vporn.com
 www.w3school.com
 www.w3schools.com
