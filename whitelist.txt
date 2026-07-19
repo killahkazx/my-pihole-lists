@@ -1,3 +1,10 @@
+api.roku.com  #[Software update function. Without this, the check fails silently.]
+configsvc.cs.roku.com
+hints.voice.roku.com
+keysvc.cs.roku.com
+sw-update.cs.roku.com  #[Software updates.]
+themes-service.sr.roku.com  #[Viewing and changing themes.]
+api.rokutime.com
 *.airthings.com
 0-edge-chat.facebook.com
 0.client-channel.google.com
