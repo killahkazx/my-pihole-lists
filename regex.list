@@ -15,3 +15,17 @@
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
 (^|\.)roku\.com$
+(^|\.)nuance\.com$
+(^|\.)vlingo\.com$
+(^|\.)nextlgsdp\.com$
+(^|\.)lgtvcommon\.com$
+(^|\.)lgsmartad\.com$
+(^|\.)lgtviot\.com$
+(^|\.)lgthinq\.com$
+(^|\.)snu\.lge\.com$
+(^|\.)su\.lge\.com$
+(^|\.)su-ssl\.lge\.com$
+(^|\.)nsu\.lge\.com$
+(^|\.)snu-dev\.lge\.com$
+(^|\.)su-dev\.lge\.com$
+(^|\.)ngfts\.lge\.com$
